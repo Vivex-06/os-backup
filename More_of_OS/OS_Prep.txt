@@ -1,0 +1,27 @@
+OS Sem-4 Prep
+
+Imp Questions: (*) denotes priority. The more stars, the more priority.
+
+!! Check below Criteria for all topics !!
+Criteria: What is it?, Diagrams?, Example?, Need?, Any types?, Advantages (if any), Disadvantages (if any)
+
+1) Operating System Structures (Module 1) * (Brisked)
+2) Threads and Multithreading in details (Module 2) * (DONE)
+3) Producer and Consumer problem(Module 3) * (Brisked)
+4) File Organization(Module 5) (Brisked)
+5) All about Uniprocessor Scheduling Types {All Numericals} (Module 2) * (DONE)
+6) All of Principles of Deadlock {All Numericals}(Module 3) ** (DONE)
+7) Best Fit, Worst Fit, First Fit. {Brisk go through other Paging} (Module 4) * (Brisked)
+8) All about Process States(Module 2) * (DONE)
+9) System Calls (Module 1) (Brisked)
+10) Disk Scheduling Algorithms {All Numericals} (Module 6) * (DONE)
+11) File Allocation Methods in detail (Module 5) * (Brisked)
+12) Basic Functions and Objectives of OS (Module 1) * (Brisked)
+13) CPU Schedulers (Module 2) * (X)
+14) File Sharing, MFT (Module 5) (X)
+15) CPU Scheduling Criteria (Module 2) (DONE)
+16) Internal & External Fragmentation, Solution using Paging (Module 4) * (Brisked)
+17) Critical Section Problem. Hardware Solution for it. (Module 3) * (DONE)
+18) Page Replacement Strategies {All Numericals} (Module 4) * (DONE)
+19) Thrashing (Module 4) (Brisked)
+20) Mutual Exclusion and Semaphores (Module 3) (Brisked)
